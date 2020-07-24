@@ -59,6 +59,10 @@ public class ParkingService {
 		}else {
 			System.out.println("Allocated slot number: "+id);
 		}
+		
+		
+				
+				
 	}
 	
 	public void vacantSlote(int slotNo) {
